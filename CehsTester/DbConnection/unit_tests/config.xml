@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Context>
- <dbAdress>hexsystem.nazwa.pl:3307</dbAdress>
- <dbName>hexsystem_5</dbName>
- <dbUsername>hexsystem_5</dbUsername>
- <dbPassword>cehs!QAZ1234</dbPassword>
- <logger>logme</logger>
+ <dbAdress></dbAdress>
+ <dbName></dbName>
+ <dbUsername></dbUsername>
+ <dbPassword></dbPassword>
+ <logger></logger>
  <tables>
-   <tableName id="exercises" >exercises</tableName>
-   <tableName id="users">cehs_users</tableName>
+   <tableName id="exercises" ></tableName>
+   <tableName id="users"></tableName>
  </tables>
 </Context>
