@@ -1,0 +1,15 @@
+
+
+ ------ 2012-10-09 22:17:04 ------
+Exception in AbcdTestDbFactoryThrown: exception 'Exception' with message 'Error loading exercises from db' in /home/biborski/Development/CehsTester/TestFactory/AbcdTestDbFactory.php:32
+Stack trace:
+#0 /home/biborski/Development/CehsTester/TestFactory/unit_tests/basic.php(18): AbcdTestDbFactory->createTest('math', 'arytmetyka', 3, 1)
+#1 /home/biborski/Development/CehsTester/TestFactory/unit_tests/basic.php(33): FactoryTester->CreateTestTester(Object(AbcdTestDbFactory))
+#2 {main}
+
+ ------ 2012-10-09 22:17:13 ------
+Exception in AbcdTestDbFactoryThrown: exception 'Exception' with message 'Error loading exercises from db' in /home/biborski/Development/CehsTester/TestFactory/AbcdTestDbFactory.php:32
+Stack trace:
+#0 /home/biborski/Development/CehsTester/TestFactory/unit_tests/basic.php(18): AbcdTestDbFactory->createTest('math', 'arytmetyka', 3, 1)
+#1 /home/biborski/Development/CehsTester/TestFactory/unit_tests/basic.php(33): FactoryTester->CreateTestTester(Object(AbcdTestDbFactory))
+#2 {main}

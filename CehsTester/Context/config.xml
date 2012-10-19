@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Context>
+ <dbAdress> SomeAdress</dbAdress>
+ <dbName> SomeAdress</dbName>
+ <dbUsername> SomeAdress</dbUsername>
+ <dbPassword>SomePass</dbPassword>
+ <logger>logme</logger>
+ <tables>
+   <tableName id="exercises" >exercises</tableName>
+   <tableName id="users">cehs_users</tableName>
+ </tables>
+</Context>

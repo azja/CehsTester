@@ -1,0 +1,1 @@
+INSERT INTO `exercises`( `field`, `subject`, `content`, `answer_a`, `answer_b`, `answer_c`, `answer_d`, `correct_answer`) VALUES ("matematyka","pierwiastki","Ile jest <span lang='latex'>\\sqrt{121}</span>?","11","9","4","8",1)
